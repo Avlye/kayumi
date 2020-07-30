@@ -7,9 +7,8 @@ This repo is an open-source language definition for Kayumi.
 ## Motivations
 
 At 7 years old, I had a dream sequence which I call *Lah li et*,
-which would last for years in that sequence. This repository is not
-to tell what happened in those dreams and exclude in open letters
-the communication standard used by that universe.
+which would last for years in that sequence. This repository is mainly used
+to understand the pattern used during communication in this dreams.
 
 ## Context
 
