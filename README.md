@@ -1,4 +1,4 @@
-# Kayumi Code
+# Kayumi
 
 A fictional and universal language based on *Lah li et* stories.
 
