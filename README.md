@@ -5,8 +5,10 @@ A fictional and universal language based on *Lah li et* stories.
 ## Motivations
 
 At 7 years old, I had a dream sequence which I call *Lah li et*,
-which would last for years in that sequence. This repository is mainly used
-to understand the pattern used during communication in this dreams.
+which would last for years in that sequence.
+
+This repository is mainly used to understand the pattern used during
+communication in this dreams.
 
 ## Context
 
