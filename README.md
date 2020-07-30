@@ -2,8 +2,6 @@
 
 A fictional and universal language based on *Lah li et* stories.
 
-This repo is an open-source language definition for Kayumi.
-
 ## Motivations
 
 At 7 years old, I had a dream sequence which I call *Lah li et*,
