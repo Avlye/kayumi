@@ -15,8 +15,6 @@ communication in this dreams.
 To begin to understand this language, it is necessary to know the beginning of
 story of *Lah li et*, called the poetry of everything.
 
-Here is my simplified version:
-
 <pre>
 It was a bland and flat world
 Or better saying
